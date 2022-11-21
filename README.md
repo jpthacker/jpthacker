@@ -18,7 +18,7 @@ jack = {
 
 Having spent the last decade training and working in academia in the field of English Literature, I recently took the bold decision to retrain and seek a new career in Tech. I’ve always been an intuitive and creative individual and, realising that academia wasn’t for me, was attracted by the impactful and problem-solving nature of software development. I recently completed a part-time, self-paced full stack software development course with \_nology.io and can showcase a growing portfolio of projects.
 
-I’m certainly not your average junior developer. That being said, my academic background means that I have exceptionally strong critical thinking, communication and research skills, and I tend to bring an element of creative flair to any project that I'm a part of. Check out my technical skills and what I've been working on below!
+I’m certainly not your average junior developer. That being said, my academic background means that I have exceptionally strong critical thinking, communication and research skills, and I tend to bring an element of creative flair to any project that I'm a part of. Check out what I've been learning and working on below!
 
 ## Technologies / Skills
 
