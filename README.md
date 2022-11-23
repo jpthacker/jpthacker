@@ -6,7 +6,7 @@ I'm a junior software developer based in Sheffield, UK
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jack-thacker-b568b11b4/)
 
-```
+```javascript
 jack = {
   firstName: “Jack”,
   lastName: “Thacker”,
