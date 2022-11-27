@@ -6,10 +6,10 @@ I'm a junior software developer based in Sheffield, UK
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jack-thacker-b568b11b4/)
 
-```
+```javascript
 jack = {
-  firstName: “Jack”,
-  lastName: “Thacker”,
+  firstName: "Jack",
+  lastName: "Thacker",
   background: "PhD in English Literature",
   training: "Self-paced Software Development Course with _nology.io",
   strengths: ['creative', 'quick learner', 'great communicator']
@@ -18,7 +18,7 @@ jack = {
 
 Having spent the last decade training and working in academia in the field of English Literature, I recently took the bold decision to retrain and seek a new career in Tech. I’ve always been an intuitive and creative individual and, realising that academia wasn’t for me, was attracted by the impactful and problem-solving nature of software development. I recently completed a part-time, self-paced full stack software development course with \_nology.io and can showcase a growing portfolio of projects.
 
-I’m certainly not your average junior developer. That being said, my academic background means that I'm an exceptionally strong critical thinker and communicator, and I tend to bring an element of creative flair to any project that I'm a part of. Check out what I've been learning and working on below!
+I’m certainly not your average junior developer. That being said, my academic background means that I'm an exceptionally strong critical thinker and communicator, and I tend to bring an element of creative flair to any project. Check out what I've been learning and working on below!
 
 ## Technologies / Skills
 
