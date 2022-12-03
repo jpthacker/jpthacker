@@ -22,7 +22,7 @@ I’m looking to develop my skills further in a fulfilling front end role in the
 
 I have a background in academia and the humanities, which means that I'm an exceptionally strong critical thinker and communicator, and I tend to bring an element of original thinking and creative flair to any project that I’m a part of. 
 
-I can boast a growing portfolio of project that make sue of a range of in-demand technologies. Check out what I've been learning and working on below!
+I can boast a growing portfolio of project that make use of a range of in-demand technologies. Check out what I've been learning and working on below!
 
 ## Technologies / Skills
 
