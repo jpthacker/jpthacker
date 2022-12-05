@@ -2,7 +2,7 @@
 
 ## Hi, my name's Jack 👋
 
-I'm a junior web developer based in Sheffield, UK. Simply [email me](mailto:jackthacker89@gmail.com) if you'd like to get in touch. Or you can check out my CV [here](https://github.com/jpthacker/jpthacker/raw/main/jack-thacker-cv-dec-2022.pdf) and my LinkedIn profile below. 
+I'm a junior web developer based in Sheffield, UK. Simply [email me](mailto:jackthacker89@gmail.com) if you'd like to get in touch. You can check out my CV [here](https://github.com/jpthacker/jpthacker/raw/main/jack-thacker-cv-dec-2022.pdf) or message me on LinkedIn. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jack-thacker-b568b11b4/)
 
