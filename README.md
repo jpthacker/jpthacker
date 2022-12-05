@@ -2,7 +2,7 @@
 
 ## Hi, my name's Jack 👋
 
-I'm a junior software developer based in Sheffield, UK
+I'm a junior web developer based in Sheffield, UK. [Email me](mailto:jackthacker89@gmail.com) if you'd like to get in touch. Otherwise, you can check out my CV here or my LinkedIn profile below. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jack-thacker-b568b11b4/)
 
@@ -16,13 +16,13 @@ jack = {
 }
 ```
 
-I’m a junior web developer specializing in the front end (but don’t worry, I have a few back end tricks up my sleeve as well). I recently completed a part-time software developer course with _nology.io and I’m now proficient in Javascript (ES6), React, CSS/SCSS and HTML5 and familiar with range of key approaches such as OOP, TDD and Agile.
+I recently completed a part-time software developer course with _nology.io. I’m now proficient in Javascript (ES6), React, CSS/SCSS and HTML5, among other technologies, and familiar with range of key approaches such as OOP, TDD and Agile.
 
 I’m looking to develop my skills further in a fulfilling front end role in the Tech sector, where I hope to apply my creative flair and people skills, as well as my technical experience, to produce impactful and beautiful applications. 
 
-I have a background in academia and the humanities, which means that I'm an exceptionally strong critical thinker and communicator, and I tend to bring an element of original thinking and creative flair to any project that I’m a part of. 
+I have a background in academia and the humanities, specifically English literature. When I'm not coding, I can be found writing, reading, playing tennis or walking in the Peak District. 
 
-I can boast a growing portfolio of project that make use of a range of in-demand technologies. Check out what I've been learning and working on below!
+I can boast a growing portfolio of projects that make use of a range of in-demand languages and technologies. Check out what I've been learning and working on below!
 
 ## Technologies / Skills
 
