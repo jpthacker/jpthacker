@@ -1,5 +1,3 @@
-<img src="./thacker-banner.png" alt="banner" title="banner">
-
 ## Hi, my name's Jack 👋
 
 I'm a junior web developer based in Sheffield, UK. Simply [email me](mailto:jackthacker89@gmail.com) if you'd like to get in touch. You can check out my CV [here](https://github.com/jpthacker/jpthacker/raw/main/jack-thacker-cv-dec-2022.pdf) or message me on LinkedIn. 
