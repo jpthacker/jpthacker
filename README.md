@@ -9,7 +9,7 @@ jack = {
   firstName: "Jack",
   lastName: "Thacker",
   background: "PhD in English Literature",
-  training: ['self-paced software development course with _nology.io', 'Makers software development bootcamp', 'software engineering apprenticeship with TES Global',
+  training: ['self-paced software development course with _nology.io', 'Makers software development bootcamp', 'software engineering apprenticeship with TES Global'],
   strengths: ['creative', 'quick learner', 'great communicator']
 }
 ```
