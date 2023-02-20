@@ -1,6 +1,6 @@
 ## Hi, my name's Jack 👋
 
-I'm a junior web developer based in Sheffield, UK. Simply [email me](mailto:jackthacker89@gmail.com) if you'd like to get in touch. You can check out my CV [here](https://github.com/jpthacker/jpthacker/raw/main/jack-thacker-cv-dec-2022.pdf) or message me on LinkedIn. 
+I'm a junior web developer based in Sheffield, UK. I'm currently an apprentice software enginner with Makers/TES Global. Simply [email me](mailto:jackthacker89@gmail.com) if you'd like to get in touch. You can check out my CV [here](https://github.com/jpthacker/jpthacker/raw/main/jack-thacker-cv-dec-2022.pdf) or message me on LinkedIn. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jack-thacker-b568b11b4/)
 
@@ -9,14 +9,12 @@ jack = {
   firstName: "Jack",
   lastName: "Thacker",
   background: "PhD in English Literature",
-  training: "Self-paced Software Development Course with _nology.io",
+  training: ['self-paced software development course with _nology.io', 'Makers software development bootcamp', 'software engineering apprenticeship with TES Global',
   strengths: ['creative', 'quick learner', 'great communicator']
 }
 ```
 
-I recently completed a part-time software developer course with _nology.io. I’m now proficient in Javascript (ES6), React, CSS/SCSS and HTML5, among other technologies, and familiar with range of key approaches such as OOP, TDD and Agile.
-
-I’m looking to develop my skills further in a fulfilling front end role in the Tech sector, where I hope to apply my creative flair and people skills, as well as my technical experience, to produce impactful and beautiful applications. 
+I’m proficient in Javascript (ES6), React, CSS/SCSS and HTML5, among other technologies, and familiar with range of key approaches such as OOP, TDD and Agile.
 
 I have a background in academia and the humanities, specifically English literature. When I'm not coding, I can be found writing, reading, playing tennis or walking in the Peak District. 
 
