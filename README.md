@@ -6,10 +6,10 @@ I'm a junior web developer based in Sheffield, UK. I'm currently an apprentice s
 
 ```javascript
 jack = {
-  firstName: "Jack",
-  lastName: "Thacker",
-  background: "PhD in English Literature",
-  training: ['self-paced software development course with _nology.io', 'Makers software development bootcamp', 'software engineering apprenticeship with TES Global'],
+  firstName: 'Jack',
+  lastName: 'Thacker',
+  background: 'PhD in English Literature',
+  training: 'Software Engineering Apprenticeship with TES Global/Makers',
   strengths: ['creative', 'quick learner', 'great communicator']
 }
 ```
