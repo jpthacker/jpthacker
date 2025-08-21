@@ -14,7 +14,7 @@ jack = {
 }
 ```
 
-I’m proficient in JS/TS, React/Next.js & TailwindCSS and have experience in a host of other languages, technologies and frameworks, including but not limited to: ASP.NET (minimalAPI/results pattern), NestJS, Web-components, SCSS/CSS & HTML. I'm also active in CX decision-making, DevOps procedures and Agile/Scrum ceremonies at Tes. 
+I’m proficient in JS/TS, React/Next.js & TailwindCSS and have experience in a host of other languages, technologies and frameworks, including but not limited to: ASP.NET (minimalAPI/results pattern), NestJS, Web-components, SCSS/CSS & HTML. I'm also active in CX decision-making, DevOps processes and Agile/Scrum ceremonies at Tes. 
 
 I have a background in academia and the humanities, specifically English literature. When I'm not working, I can be found writing, reading, gaming, playing tennis or walking. 
 
@@ -41,4 +41,4 @@ I have a background in academia and the humanities, specifically English literat
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&link=/)
 
-I've pinned a few early projects below, to illustrate how I started my programming journey. I now have a few more recent project in the works - so watch this space!
+I've pinned a few early projects below, to illustrate how I started my programming journey. But I have some new projects in the works - so watch this space!
