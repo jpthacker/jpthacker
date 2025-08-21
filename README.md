@@ -1,6 +1,6 @@
 ## Hi, my name's Jack 👋
 
-I'm currently an Associate Software Enginner at TES Global. Simply [email me](mailto:jackthacker89@gmail.com) if you'd like to get in touch. You can check out my CV [here](https://github.com/jpthacker/jpthacker/raw/main/jack-thacker-cv-dec-2022.pdf) or message me on LinkedIn. 
+I'm currently an Associate Software Enginner at TES Global. Simply [email me](mailto:jackthacker89@gmail.com) if you'd like to get in touch or message me on LinkedIn. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jack-thacker-b568b11b4/)
 
@@ -8,15 +8,15 @@ I'm currently an Associate Software Enginner at TES Global. Simply [email me](ma
 jack = {
   firstName: 'Jack',
   lastName: 'Thacker',
-  background: 'PhD in English Literature',
+  background: 'Poet and PhD in English Literature',
   training: 'Software Engineering Apprenticeship with TES Global/Makers',
   strengths: ['creative', 'quick learner', 'great communicator']
 }
 ```
 
-I’m proficient in Javascript/TypeScript, Node.js, React/Next.js, CSS/SCSS/Tailwind, among other languages/technologies, and have experience with range of key approaches such as OOP, TDD and Agile.
+I’m proficient in Javascript/TypeScript, Node.js, React/Next.js, CSS/SCSS/Tailwind, among other languages/technologies, and have experience with range of key approaches such as OOP, TDD and Agile/Scrum.
 
-I have a background in academia and the humanities, specifically English literature. When I'm not working, I can be found writing, reading, playing tennis or walking in the Peak District. 
+I have a background in academia and the humanities, specifically English literature. When I'm not working, I can be found writing, reading, gaming, playing tennis or walking. 
 
 ## Technologies / Skills
 
