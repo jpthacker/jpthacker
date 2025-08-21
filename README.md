@@ -1,6 +1,6 @@
 ## Hi, my name's Jack 👋
 
-I'm currently an Associate Software Enginner at TES Global. Simply [email me](mailto:jackthacker89@gmail.com) if you'd like to get in touch or message me on LinkedIn. 
+I'm currently an Associate Software Enginner at Tes. Simply [email me](mailto:jackthacker89@gmail.com) if you'd like to get in touch or message me on LinkedIn. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jack-thacker-b568b11b4/)
 
