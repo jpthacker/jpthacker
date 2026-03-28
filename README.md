@@ -41,4 +41,4 @@ I have a background in academia and the humanities, specifically English literat
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&link=/)
 
-I've pinned a few early projects below, to illustrate how I started my programming journey. But I have some new projects in the works - so watch this space!
+I've pinned a few recent personal projects below that draw on some of my hobbies/passions.
